@@ -300,4 +300,4 @@ A continuación se muestra Netbeans con la pestaña **Inspector** para la clase 
 A continuación se muestra Netbeans con la pestaña **Inspector** para todos los proyectos abiertos.
 
 ![Todos los proyectos abiertos](img/inspect3.png)
-
+[![Build Status](https://travis-ci.org/ChristianPrieto/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/ChristianPrieto/DAW1-ED-Pruebas-Ejemplo1)
